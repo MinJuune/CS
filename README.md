@@ -10,5 +10,4 @@
 - [확률및통계 (Probability and Statistics)](Probability%20and%20Statistics.md)
 - [운영체제 (Operating System)](OS.md)  
 - [네트워크 (Network)](Network.md)
-- [컴퓨터비전 (Computer Vision)](CV.md)
 - [그래픽스 (Graphics)](Graphics.md)  
